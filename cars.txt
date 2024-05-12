@@ -1,0 +1,51 @@
+
+Van,Honda,Odyssey,2019
+Truck,Ford,F-150,2020
+Midsize,Ford,Fusion,2022
+Crossover,Nissan,Rogue,2023
+Truck,Ford,F-150,2020
+SUV,Toyota,RAV4,2021
+Luxury,Mercedes-Benz,S-Class,2020
+SUV,Toyota,RAV4,2021
+SUV,Toyota,RAV4,2021
+Full-Size,Nissan,Maxima,2019
+Truck,Toyota,Tundra,2023
+Crossover,Honda,CR-V,2022
+Midsize,Toyota,Camry,2021
+Electric,Audi,e-tron,2020
+Convertible,Audi,e-tron,2020
+Luxury,Audi,A8,2021
+Economy,Honda,Fit,2023
+Truck,Chevrolet,Silverado,2021
+Electric,Chevrolet,Bolt EV,2023
+Economy,Ford,Fiesta,2023
+Convertible,Ford,Mustang Convertible,2022
+Midsize,Ford,Fusion,2022
+Electric,Tesla,Model 3,2021
+Van,Honda,Odyssey,2019
+Van,Chrysler,Pacifica,2023
+Electric,Tesla,Model 3,2021
+Van,Kia,Sedona,2021
+Convertible,Audi,A5 Cabriolet,2019
+Convertible,Ford,Mustang Convertible,2022
+Crossover,Honda,CR-V,2022
+SUV,Honda,Pilot,2022
+Full-Size,Nissan,Maxima,2019
+Luxury,Genesis,G90,2023
+Midsize,Ford,Fusion,2022
+Luxury,Genesis,G90,2023
+Economy,Nissan,Versa,2024
+SUV,Ford,Explorer,2020
+Crossover,Ford,Escape,2021
+Full-Size,Nissan,Maxima,2019
+Truck,Chevrolet,Silverado,2021
+Economy,Ford,Fiesta,2023
+Luxury,Lexus,LS,2022
+Electric,Chevrolet,Bolt EV,2023
+Crossover,Honda,CR-V,2022
+Van,Honda,Odyssey,2019
+Midsize,Toyota,Camry,2021
+Convertible,Chevrolet,Camaro Convertible,2023
+Economy,Ford,Fiesta,2023
+Full-Size,Chevrolet,Impala,2023
+Full-Size,Chevrolet,Impala,2023
